@@ -6,11 +6,7 @@
 
 ## Screenshot
 
-![alt text](assets/images/screenshot.png)
-
-## Credits
-
-
+![screenshot of page](assets/images/screenshot.png)
 
 ## Link to Deployed Webpage and Repository
 
