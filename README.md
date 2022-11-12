@@ -8,6 +8,11 @@
 
 ![screenshot of page](assets/images/screenshot.png)
 
+## Credit
+
+Worked with a partner Marcus Paccapaniccia 
+This is his github https://github.com/Mpacct/Refactoring-Challenge 
+
 ## Link to Deployed Webpage and Repository
 
 https://github.com/nickrosales/code-refactor-challenge
